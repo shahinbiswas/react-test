@@ -1,5 +1,22 @@
-# Getting Started with Create React App
+# Project 1 - Country App
 
+## step 1: basic structure setup
+
+## step 2: fetch data
+## step 3: display data
+## step 4: remove country functionality 
+## step 5: search country functionality
+
+
+
+
+
+
+
+
+
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
